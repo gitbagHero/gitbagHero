@@ -1,0 +1,99 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">gitbagHero Animal Island profile banner</title>
+  <desc id="desc">A warm parchment Animal Crossing inspired GitHub profile banner with island cards, mint accents, clouds, sea, and a passport panel.</desc>
+  <defs>
+    <radialGradient id="skyDotA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(248 120) rotate(90) scale(170 360)">
+      <stop stop-color="#FDF7DD"/>
+      <stop offset="1" stop-color="#DFF6ED"/>
+    </radialGradient>
+    <linearGradient id="sea" x1="0" y1="283" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AEE8D9"/>
+      <stop offset="1" stop-color="#82D5BB"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1.6" fill="#19C8B9" opacity="0.16"/>
+      <circle cx="18" cy="18" r="1.1" fill="#82D5BB" opacity="0.2"/>
+    </pattern>
+    <filter id="soft" x="-10%" y="-20%" width="120%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#725D42" flood-opacity="0.14"/>
+    </filter>
+    <clipPath id="blob">
+      <path d="M27.6 29.9C43.4 11.8 95.7 7 168.3 11.1C222 14.1 280.7 8.2 301.3 34.8C324.2 64.5 311.4 119.5 306.6 168.9C301.9 217.8 322 270.8 292 299.3C262.7 327.1 201 316.9 151.6 318.3C98.7 319.8 43.4 333 20.5 298.8C-2.3 264.9 17.5 211.3 14.7 161.4C11.8 109.3 3.7 57.3 27.6 29.9Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="#F8F8F0"/>
+  <rect width="1200" height="420" rx="28" fill="url(#skyDotA)"/>
+  <rect width="1200" height="420" rx="28" fill="url(#dots)"/>
+
+  <path d="M0 300C104 256 180 302 266 276C364 246 435 214 539 255C647 297 737 285 837 248C943 209 1056 235 1200 207V420H0V300Z" fill="url(#sea)"/>
+  <path d="M0 336C86 302 177 329 272 306C363 284 426 259 524 292C639 331 741 324 844 291C964 252 1061 273 1200 244V420H0V336Z" fill="#6FBA2C" opacity="0.28"/>
+
+  <g opacity="0.9">
+    <path d="M86 84C95 62 127 60 139 80C153 67 178 70 186 91C207 91 221 106 219 123H63C58 102 68 88 86 84Z" fill="white"/>
+    <path d="M908 83C920 55 961 54 977 80C997 63 1030 68 1041 96C1068 96 1086 116 1082 138H878C872 112 884 88 908 83Z" fill="white" opacity="0.9"/>
+    <path d="M689 47C698 28 725 28 736 46C750 34 773 38 780 57C799 57 812 72 809 88H667C663 68 673 51 689 47Z" fill="white" opacity="0.82"/>
+  </g>
+
+  <g transform="translate(72 64)" filter="url(#soft)">
+    <path d="M32 0H336C353.7 0 368 14.3 368 32V258C368 275.7 353.7 290 336 290H32C14.3 290 0 275.7 0 258V32C0 14.3 14.3 0 32 0Z" fill="#F7F3DF" stroke="#C4B89E" stroke-width="3"/>
+    <path d="M0 72H368" stroke="#C4B89E" stroke-width="3"/>
+    <circle cx="44" cy="38" r="15" fill="#19C8B9"/>
+    <circle cx="82" cy="38" r="15" fill="#F7CD67"/>
+    <circle cx="120" cy="38" r="15" fill="#F8A6B2"/>
+    <text x="224" y="45" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="21" font-weight="900" fill="#794F27">ISLAND PASSPORT</text>
+
+    <g transform="translate(30 102)">
+      <circle cx="55" cy="55" r="55" fill="#82D5BB"/>
+      <circle cx="55" cy="48" r="31" fill="#FDF0C8"/>
+      <path d="M22 104C28 80 44 70 55 70C68 70 83 82 90 104H22Z" fill="#9A835A"/>
+      <path d="M36 41C45 22 75 22 84 41C75 34 46 34 36 41Z" fill="#794F27"/>
+      <circle cx="43" cy="52" r="4" fill="#725D42"/>
+      <circle cx="68" cy="52" r="4" fill="#725D42"/>
+      <path d="M48 65C55 70 63 70 70 65" stroke="#725D42" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <text x="156" y="126" font-family="Nunito, Arial, sans-serif" font-size="18" font-weight="900" fill="#794F27">gitbagHero</text>
+    <text x="156" y="156" font-family="Nunito, Arial, sans-serif" font-size="15" font-weight="700" fill="#725D42">Developer / Maker</text>
+    <text x="156" y="184" font-family="Nunito, Arial, sans-serif" font-size="14" font-weight="600" fill="#8A7B66">Home island: GitHub</text>
+    <rect x="156" y="210" width="146" height="38" rx="19" fill="#19C8B9"/>
+    <path d="M156 248H302" stroke="#BDAEA0" stroke-width="6" stroke-linecap="round"/>
+    <text x="229" y="235" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="15" font-weight="900" fill="white">OPEN PROFILE</text>
+  </g>
+
+  <g transform="translate(498 80)">
+    <g>
+      <path d="M0 18H384C397.3 18 408 28.7 408 42V180C408 193.3 397.3 204 384 204H0V18Z" fill="#FDE4E8" stroke="#F8A6B2" stroke-width="3"/>
+      <path d="M0 18H408V204H0V18Z" fill="url(#dots)" opacity="0.75"/>
+      <path d="M0 18L-28 45L0 72V18Z" fill="#E06880"/>
+      <path d="M408 18L436 45L408 72V18Z" fill="#E06880"/>
+      <rect x="30" y="0" width="348" height="58" rx="12" fill="#27D039"/>
+      <path d="M30 58L5 78H30V58Z" fill="#115017"/>
+      <path d="M378 58L403 78H378V58Z" fill="#115017"/>
+      <text x="204" y="38" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="20" font-weight="900" fill="white">WELCOME TO MY CODE ISLAND</text>
+      <text x="36" y="102" font-family="Nunito, Arial, sans-serif" font-size="28" font-weight="900" fill="#794F27">Build useful things.</text>
+      <text x="36" y="136" font-family="Nunito, Arial, sans-serif" font-size="17" font-weight="700" fill="#725D42">Keep the UI warm. Keep the code readable.</text>
+      <text x="36" y="166" font-family="Nunito, Arial, sans-serif" font-size="16" font-weight="700" fill="#8A7B66">Frontend / tooling / AI-assisted product work</text>
+    </g>
+  </g>
+
+  <g transform="translate(950 118)" filter="url(#soft)">
+    <rect x="0" y="0" width="156" height="236" rx="34" fill="#F8F8F0" stroke="#9F927D" stroke-width="4"/>
+    <rect x="16" y="24" width="124" height="184" rx="22" fill="#F7F3DF" stroke="#C4B89E" stroke-width="3"/>
+    <circle cx="78" cy="219" r="8" fill="#C4B89E"/>
+    <rect x="36" y="48" width="34" height="34" rx="10" fill="#82D5BB"/>
+    <rect x="86" y="48" width="34" height="34" rx="10" fill="#F7CD67"/>
+    <rect x="36" y="98" width="34" height="34" rx="10" fill="#B77DEE"/>
+    <rect x="86" y="98" width="34" height="34" rx="10" fill="#E59266"/>
+    <rect x="36" y="150" width="84" height="24" rx="12" fill="#19C8B9"/>
+    <text x="78" y="168" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="12" font-weight="900" fill="white">NookPhone</text>
+  </g>
+
+  <g transform="translate(578 302)">
+    <ellipse cx="28" cy="54" rx="54" ry="16" fill="#725D42" opacity="0.12"/>
+    <path d="M22 11C37 -4 64 2 73 23C88 21 102 32 101 48C100 66 82 75 61 70C47 88 16 82 10 59C-8 51 -2 22 22 11Z" fill="#F7CD67" stroke="#D4A030" stroke-width="4"/>
+    <path d="M29 33C43 24 63 29 71 44" stroke="#725D42" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="34" cy="47" r="4" fill="#725D42"/>
+    <circle cx="68" cy="47" r="4" fill="#725D42"/>
+  </g>
+</svg>
