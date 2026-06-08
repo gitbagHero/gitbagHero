@@ -25,8 +25,15 @@
     <text x="141" y="62" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="13" font-weight="900" fill="white">Python</text>
     <text x="242" y="62" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="13" font-weight="900" fill="white">Markdown</text>
   </g>
-  <path d="M345 42C360 25 389 31 396 55C416 65 407 94 385 96C375 114 346 112 339 92C320 86 323 55 345 42Z" fill="#F7CD67" stroke="#D4A030" stroke-width="4"/>
-  <path d="M350 67C360 58 377 61 384 73" stroke="#725D42" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="354" cy="77" r="3" fill="#725D42"/>
-  <circle cx="381" cy="77" r="3" fill="#725D42"/>
+  <g transform="translate(324 28)">
+    <circle cx="38" cy="38" r="38" fill="#F7CD67"/>
+    <rect x="10" y="17" width="56" height="48" rx="12" fill="#F7F3DF" stroke="#D4A030" stroke-width="3"/>
+    <rect x="16" y="25" width="44" height="29" rx="8" fill="#82D5BB"/>
+    <circle cx="22" cy="59" r="3" fill="#19C8B9"/>
+    <circle cx="32" cy="59" r="3" fill="#F8A6B2"/>
+    <path d="M29 34L23 40L29 46" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M47 34L53 40L47 46" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M39 33L35 47" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <path d="M26 9C34 4 45 5 52 12" stroke="#725D42" stroke-width="4" stroke-linecap="round" opacity="0.35"/>
+  </g>
 </svg>
