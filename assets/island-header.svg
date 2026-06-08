@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">gitbagHero Animal Island profile banner</title>
-  <desc id="desc">A warm parchment Animal Crossing inspired GitHub profile banner with island cards, mint accents, clouds, sea, and a passport panel.</desc>
+  <title id="title">gitbagHero 动森风个人主页头图</title>
+  <desc id="desc">一张温暖羊皮纸质感的动森风 GitHub 个人主页头图，包含加长岛民卡、公告牌、云朵和海面元素。</desc>
   <defs>
     <radialGradient id="skyDotA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(248 120) rotate(90) scale(170 360)">
       <stop stop-color="#FDF7DD"/>
@@ -35,33 +35,31 @@
     <path d="M689 47C698 28 725 28 736 46C750 34 773 38 780 57C799 57 812 72 809 88H667C663 68 673 51 689 47Z" fill="white" opacity="0.82"/>
   </g>
 
-  <g transform="translate(72 64)" filter="url(#soft)">
-    <path d="M32 0H336C353.7 0 368 14.3 368 32V258C368 275.7 353.7 290 336 290H32C14.3 290 0 275.7 0 258V32C0 14.3 14.3 0 32 0Z" fill="#F7F3DF" stroke="#C4B89E" stroke-width="3"/>
-    <path d="M0 72H368" stroke="#C4B89E" stroke-width="3"/>
-    <circle cx="44" cy="38" r="15" fill="#19C8B9"/>
-    <circle cx="82" cy="38" r="15" fill="#F7CD67"/>
-    <circle cx="120" cy="38" r="15" fill="#F8A6B2"/>
-    <text x="224" y="45" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="21" font-weight="900" fill="#794F27">ISLAND PASSPORT</text>
+  <g transform="translate(64 78)" filter="url(#soft)">
+    <path d="M34 0H396C414.8 0 430 15.2 430 34V238C430 256.8 414.8 272 396 272H34C15.2 272 0 256.8 0 238V34C0 15.2 15.2 0 34 0Z" fill="#F7F3DF" stroke="#C4B89E" stroke-width="3"/>
+    <rect x="42" y="24" width="126" height="36" rx="18" fill="#F7CD67"/>
+    <text x="105" y="48" text-anchor="middle" font-family="'Noto Sans SC', Nunito, Arial, sans-serif" font-size="18" font-weight="900" fill="#725D42">岛民卡</text>
+    <circle cx="354" cy="42" r="10" fill="#19C8B9"/>
+    <circle cx="382" cy="42" r="10" fill="#F8A6B2"/>
 
-    <g transform="translate(30 102)">
-      <circle cx="55" cy="55" r="55" fill="#82D5BB"/>
-      <circle cx="55" cy="48" r="31" fill="#FDF0C8"/>
-      <path d="M22 104C28 80 44 70 55 70C68 70 83 82 90 104H22Z" fill="#9A835A"/>
-      <path d="M36 41C45 22 75 22 84 41C75 34 46 34 36 41Z" fill="#794F27"/>
-      <circle cx="43" cy="52" r="4" fill="#725D42"/>
-      <circle cx="68" cy="52" r="4" fill="#725D42"/>
-      <path d="M48 65C55 70 63 70 70 65" stroke="#725D42" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(44 86) scale(0.92)">
+      <circle cx="66" cy="66" r="66" fill="#82D5BB"/>
+      <circle cx="66" cy="58" r="37" fill="#FDF0C8"/>
+      <path d="M27 124C34 94 51 83 66 83C82 83 101 96 109 124H27Z" fill="#9A835A"/>
+      <path d="M38 50C49 26 83 26 94 50C82 40 51 40 38 50Z" fill="#794F27"/>
+      <circle cx="51" cy="63" r="4.5" fill="#725D42"/>
+      <circle cx="81" cy="63" r="4.5" fill="#725D42"/>
+      <path d="M57 78C65 84 74 84 82 78" stroke="#725D42" stroke-width="4.5" stroke-linecap="round"/>
     </g>
 
-    <text x="156" y="126" font-family="Nunito, Arial, sans-serif" font-size="18" font-weight="900" fill="#794F27">gitbagHero</text>
-    <text x="156" y="156" font-family="Nunito, Arial, sans-serif" font-size="15" font-weight="700" fill="#725D42">Developer / Maker</text>
-    <text x="156" y="184" font-family="Nunito, Arial, sans-serif" font-size="14" font-weight="600" fill="#8A7B66">Home island: GitHub</text>
-    <rect x="156" y="210" width="146" height="38" rx="19" fill="#19C8B9"/>
-    <path d="M156 248H302" stroke="#BDAEA0" stroke-width="6" stroke-linecap="round"/>
-    <text x="229" y="235" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="15" font-weight="900" fill="white">OPEN PROFILE</text>
+    <text x="296" y="116" text-anchor="middle" font-family="Nunito, 'Noto Sans SC', Arial, sans-serif" font-size="31" font-weight="900" fill="#794F27">gitbagHero</text>
+    <text x="296" y="154" text-anchor="middle" font-family="'Noto Sans SC', Nunito, Arial, sans-serif" font-size="19" font-weight="800" fill="#725D42">开发者 / 创作者</text>
+    <rect x="224" y="184" width="172" height="40" rx="20" fill="#19C8B9"/>
+    <path d="M224 224H396" stroke="#BDAEA0" stroke-width="6" stroke-linecap="round"/>
+    <text x="310" y="210" text-anchor="middle" font-family="'Noto Sans SC', Nunito, Arial, sans-serif" font-size="17" font-weight="900" fill="white">代码小岛</text>
   </g>
 
-  <g transform="translate(498 80)">
+  <g transform="translate(570 80)">
     <g>
       <path d="M0 18H384C397.3 18 408 28.7 408 42V180C408 193.3 397.3 204 384 204H0V18Z" fill="#FDE4E8" stroke="#F8A6B2" stroke-width="3"/>
       <path d="M0 18H408V204H0V18Z" fill="url(#dots)" opacity="0.75"/>
@@ -70,23 +68,11 @@
       <rect x="30" y="0" width="348" height="58" rx="12" fill="#27D039"/>
       <path d="M30 58L5 78H30V58Z" fill="#115017"/>
       <path d="M378 58L403 78H378V58Z" fill="#115017"/>
-      <text x="204" y="38" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="20" font-weight="900" fill="white">WELCOME TO MY CODE ISLAND</text>
-      <text x="36" y="102" font-family="Nunito, Arial, sans-serif" font-size="28" font-weight="900" fill="#794F27">Build useful things.</text>
-      <text x="36" y="136" font-family="Nunito, Arial, sans-serif" font-size="17" font-weight="700" fill="#725D42">Keep the UI warm. Keep the code readable.</text>
-      <text x="36" y="166" font-family="Nunito, Arial, sans-serif" font-size="16" font-weight="700" fill="#8A7B66">Frontend / tooling / AI-assisted product work</text>
+      <text x="204" y="38" text-anchor="middle" font-family="'Noto Sans SC', Nunito, Arial, sans-serif" font-size="22" font-weight="900" fill="white">欢迎来到代码小岛</text>
+      <text x="36" y="104" font-family="'Noto Sans SC', Nunito, Arial, sans-serif" font-size="28" font-weight="900" fill="#794F27">把想法做成产品</text>
+      <text x="36" y="140" font-family="'Noto Sans SC', Nunito, Arial, sans-serif" font-size="18" font-weight="700" fill="#725D42">界面要温暖，代码要清楚。</text>
+      <text x="36" y="170" font-family="'Noto Sans SC', Nunito, Arial, sans-serif" font-size="16" font-weight="700" fill="#8A7B66">前端 / 工具 / AI 辅助开发</text>
     </g>
-  </g>
-
-  <g transform="translate(950 118)" filter="url(#soft)">
-    <rect x="0" y="0" width="156" height="236" rx="34" fill="#F8F8F0" stroke="#9F927D" stroke-width="4"/>
-    <rect x="16" y="24" width="124" height="184" rx="22" fill="#F7F3DF" stroke="#C4B89E" stroke-width="3"/>
-    <circle cx="78" cy="219" r="8" fill="#C4B89E"/>
-    <rect x="36" y="48" width="34" height="34" rx="10" fill="#82D5BB"/>
-    <rect x="86" y="48" width="34" height="34" rx="10" fill="#F7CD67"/>
-    <rect x="36" y="98" width="34" height="34" rx="10" fill="#B77DEE"/>
-    <rect x="86" y="98" width="34" height="34" rx="10" fill="#E59266"/>
-    <rect x="36" y="150" width="84" height="24" rx="12" fill="#19C8B9"/>
-    <text x="78" y="168" text-anchor="middle" font-family="Nunito, Arial, sans-serif" font-size="12" font-weight="900" fill="white">NookPhone</text>
   </g>
 
   <g transform="translate(578 302)">
