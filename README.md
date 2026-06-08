@@ -71,8 +71,8 @@
 ### NookPhone 状态
 
 <p align="center">
-  <img height="170" alt="GitHub 数据" src="https://github-readme-stats.vercel.app/api?username=gitbagHero&show_icons=true&hide_border=true&title_color=794f27&text_color=725d42&icon_color=19c8b9&bg_color=f7f3df&locale=cn" />
-  <img height="170" alt="常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitbagHero&layout=compact&hide_border=true&title_color=794f27&text_color=725d42&bg_color=f7f3df&locale=cn" />
+  <img height="170" alt="NookPhone 状态总览" src="./assets/status-overview.svg" />
+  <img height="170" alt="NookPhone 技术栈速览" src="./assets/status-stack.svg" />
 </p>
 
 ### 小岛地图
